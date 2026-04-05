@@ -41,10 +41,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesmaelsousy&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
+---
+
 <div align="center">
 
 > "The only way to do great work is to love what you do." — Keep building, keep growing 🌱
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58a6ff)
+![Profile Views](https://komarev.com/ghpvc/?username=nesmaelsousy&style=flat-square&color=58a6ff)
 
 </div>
